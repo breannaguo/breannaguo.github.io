@@ -2224,6 +2224,8 @@ input, select, textarea {
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
 					color: inherit;
+					background: #3e4f5c;
+					opacity: 0.6;
 				}
 
 				#main > section.dark strong {
@@ -2248,7 +2250,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/About_photo.png");
 			}
 
 			#main > section.two {
@@ -2347,7 +2349,7 @@ input, select, textarea {
 			}
 
 			#nav ul li a {
-				font-size: 0.8em;
+				font-size: 1.0em;
 				padding-top: 0.5em;
 				padding-bottom: 0.5em;
 			}
