@@ -143,12 +143,6 @@
 							<p>I also enjoy reading- my recent reads include <i>The Forty Rules of Love</i> by Elif Shafak and <i>Eat & Run</i> by Scott Jurek. </p>
 								<div class="row">
 								<div class="col-4 col-12-mobile">
-								<!--	<article class="item">
-										<a class="image fit"><img src="images/Goshen.jpg" alt="" /></a>
-										<header>
-											<h3>Goshen Gallop 10k</h3>
-										</header>
-									</article> -->
 									<article class="item">
 										<a class="image fit"><img src="images/Sail.jpg" alt="" /></a>
 										<header>
@@ -163,12 +157,6 @@
 											<h3>Skiing at Mt. Bachelor</h3>
 										</header>
 									</article>
-								<!--	<article class="item">
-										<a class="image fit"><img src="images/Ski.jpg" alt="" /></a>
-										<header>
-											<h3>Skiing at Mt. Bachelor</h3>
-										</header>
-									</article> -->
 								</div>
 								<div class="col-4 col-12-mobile">
 								<article class="item">
@@ -177,12 +165,6 @@
 											<h3>Hiking the Enchantment Trail</h3>
 										</header>
 									</article>
-								<!--	<article class="item">
-										<a class="image fit"><img src="images/Tam.jpg" alt="" /></a>
-										<header>
-											<h3>Tam Trek 19mi</h3>
-										</header>
-									</article>-->
 								</div>
 							</div>
 
