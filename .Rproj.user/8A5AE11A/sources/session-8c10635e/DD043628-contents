@@ -58,7 +58,7 @@
 			<div id="main">
 
 				<!-- Intro -->
-					<section id="top" class="one dark cover">
+					<section id="about" class="one dark cover">
 						<div class="container">
 
 							<header>
@@ -76,7 +76,7 @@
 				
 
 				<!-- About Me -->
-					<section id="about" class="three">
+					<section id="top" class="three">
 						<div class="container">
 
 							<header>
@@ -157,9 +157,9 @@
 								</div>
 								<div class="col-4 col-12-mobile">
 									<article class="item">
-										<a class="image fit"><img src="images/Enchant1.png" alt="" /></a>
+										<a class="image fit"><img src="images/Ski.jpg" alt="" /></a>
 										<header>
-											<h3>Hiking the Enchantment Trail</h3>
+											<h3>Skiing at Mt. Bachelor</h3>
 										</header>
 									</article>
 								<!--	<article class="item">
@@ -171,9 +171,9 @@
 								</div>
 								<div class="col-4 col-12-mobile">
 								<article class="item">
-										<a class="image fit"><img src="images/Olympic.png" alt="" /></a>
+										<a class="image fit"><img src="images/Enchant1.png" alt="" /></a>
 										<header>
-											<h3>Visitng Olympic National Park</h3>
+											<h3>Hiking the Enchantment Trail</h3>
 										</header>
 									</article>
 								<!--	<article class="item">
@@ -199,7 +199,7 @@
 								<h2>Contact Me</h2>
 							</header>
 
-							<p>For any questions, please reach out to my email <a href = "mailto: bguo@middlebury.edu">bguo@middlebury.edu</a></p>
+							<p>For any questions, please reach me by email: <a href = "mailto: bguo@middlebury.edu">bguo@middlebury.edu</a></p>
 
 
 						</div>
