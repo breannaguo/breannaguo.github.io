@@ -2349,13 +2349,13 @@ input, select, textarea {
 			}
 
 			#nav ul li a {
-				font-size: 1.0em;
+				font-size: 1em;
 				padding-top: 0.5em;
 				padding-bottom: 0.5em;
 			}
 
 				#nav ul li a span {
-					padding-right: 2.25em;
+					padding-right: 0em;
 				}
 
 					#nav ul li a span:before {

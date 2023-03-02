@@ -28,13 +28,13 @@
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
-								<li><a href="#top" id="top-link"><span class="icon solid fa-home">Intro</span></a></li>
-								<li><a href="#about" id="about-link"><span class="icon solid fa-user">About Me</span></a></li>
-								<li><a href="#research" id="research-link"><span class="icon solid fa-book">Research</span></a></li>
-								<li><a href="#wids" id="wids-link"><span class="icon solid fa-globe">Women in Data Science</span></a></li>
-								<li><a href="#skills" id="skills-link"><span class="icon solid fa-toolbox">Skills</span></a></li>
-								<li><a href="#add" id="add-link"><span class="icon solid fa-heart">Additional Interests</span></a></li>
-								<li><a href="#contact" id="contact-link"><span class="icon solid fa-envelope">Contact Me</span></a></li>
+								<!-- <li><a href="#top" id="top-link"><span>Intro</span></a></li> -->
+								<li><a href="#about" id="about-link"><span>About Me</span></a></li>
+								<li><a href="#research" id="research-link"><span>Research</span></a></li>
+								<li><a href="#wids" id="wids-link"><span>Women in Data Science</span></a></li>
+								<li><a href="#skills" id="skills-link"><span>Skills</span></a></li>
+								<li><a href="#add" id="add-link"><span>Additional Interests</span></a></li>
+								<li><a href="#contact" id="contact-link"><span>Contact Me</span></a></li>
 							</ul>
 						</nav>
 
